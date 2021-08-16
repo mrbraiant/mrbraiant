@@ -1,4 +1,4 @@
-## Hey there, I'm mrbraiant
+## Hey there, I'm Braiant Malta
 
 - 🌱 I’m currently learning more and more about Java, Python, Node.js, typescript, Golang and Mobile Development.
 - 🌐 How to reach me: https://www.linkedin.com/in/braiant-malta-924529210
