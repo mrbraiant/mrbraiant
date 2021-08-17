@@ -19,7 +19,7 @@
   <img alt="Braioso-CSS" height="30" width="40" class="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Braioso-PHP" height="30" widtg="40" class="center" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img alt="Braioso-Bootstrap" height="30" widtg="40" class="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"> -->
-  <img alt="Braioso-Vue" style="display:block;margin:auto;" height="30" widtg="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+  <img alt="Braioso-Vue" style="display:block;" margin="auto;" height="30" widtg="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   
  <!--<img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
 </div>
