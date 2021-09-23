@@ -1,6 +1,6 @@
 ## Hey there, I'm Braiant Malta
 
-- 🌱 I’m currently learning more and more about Java, Python, Node.js, Golang and Mobile Development.
+- 🌱 I’m currently learning more and more about Java, React, Node.js and Mobile Development.
 - 🌐 How to reach me: https://www.linkedin.com/in/braiant-malta-924529210
 
 <div align="center">
@@ -14,6 +14,7 @@
   <img alt="Braioso-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Braioso-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Braioso-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="Braioso-React" height="30" width="40" src="https://github.com/mrbraiant/devicon/blob/master/icons/react/react-original.svg">
   <img alt="Braioso-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Braioso-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img alt="Braioso-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
