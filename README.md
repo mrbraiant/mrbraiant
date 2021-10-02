@@ -22,7 +22,8 @@
   <img alt="Braioso-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img alt="Braioso-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img alt="Braioso-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img alt="braioso-Javaa" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img alt="Braioso-Javaa" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img alt="Braioso-Matrz" height="30" width="40" src="https://github.com/Dogfalo/materialize/blob/v1-dev/images/favicon/mstile-144x144.png">
   <!--<img align="right" alt="Braioso-Gnomo" height="140" width="130" src="https://m.media-amazon.com/images/I/61efzGdADML._AC_SL1020_.jpg"> -->
 </div>
 
