@@ -1,6 +1,6 @@
 ## Hey there,
 
-- 🌱 I’m currently learning more and more about JavaScript, ES6, React and React Native, Redux, Next, Node and Mobile Development.
+- 🌱 I’m currently learning more and more about JavaScript, ES6, React, Next and Mobile Development with React Native.
 - 🌐 How to reach me: https://www.linkedin.com/in/braiant-malta-924529210
 
 <div align="center">
