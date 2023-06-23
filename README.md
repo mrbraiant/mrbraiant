@@ -1,6 +1,7 @@
-## Hey there,
+## Hello,
 
-- 🌱 I’m currently learning more and more about JavaScript, ES6, React, Next and Mobile Development with React Native.
+- 🌱 I’m Front-end Developer and I'm also studying Back-end/Fullstack using JavaScript/TypeScript, React/Next.js, MongoDb, Express.js and always developing     
+     thinking about all user experiences developing responsives WebApps, LandingPages, Customized Systems/Dashboards and Websites.
 - 🌐 How to reach me: https://www.linkedin.com/in/braiant-malta-924529210
 
 <div align="center">
