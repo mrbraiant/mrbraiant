@@ -1,7 +1,7 @@
 ## Hello,
 
 - 🌱 I’m FullStack Developer my main skills are JavaScript/TypeScript, React/Next/Angular, MongoDb, Express.js and Firebase.
-     and always developing thinking about all user experiences creating responsives WebApps, LandingPages,
+     I'm always love to coding thinking about all user experiences creating responsives WebApps, LandingPages,
      Customized Systems/Dashboards and Websites.
 - 🌐 How to reach me: https://www.linkedin.com/in/braiant-malta-924529210
 
