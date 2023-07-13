@@ -1,6 +1,6 @@
 ## Hello,
 
-- 🌱 I’m Front-end Developer and I'm also studying Back-end/Fullstack using JavaScript/TypeScript, React/Next.js, MongoDb, Express.js
+- 🌱 I’m FullStack Developer my main skills are JavaScript/TypeScript, React/Next/Angular, MongoDb, Express.js and Firebase.
      and always developing thinking about all user experiences creating responsives WebApps, LandingPages,
      Customized Systems/Dashboards and Websites.
 - 🌐 How to reach me: https://www.linkedin.com/in/braiant-malta-924529210
