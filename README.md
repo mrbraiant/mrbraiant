@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrbraiant&show_icons=true&theme=blue-green&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbraiant&layout=compact&langs_count=9&theme=blue-green"/>
 </div>
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block; background-color: darkgrey; border: 1px solid white; border-radius: 10"><br>
   <p>My Skills:</p>
   <img alt="Braioso-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img alt="Braioso-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
